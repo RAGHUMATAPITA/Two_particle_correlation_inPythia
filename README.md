@@ -1,5 +1,5 @@
 # Instruction
-- Tree_Analyzer_NewNew_Condor.C --> This is the main code
+- Tree_Analyzer_Condor.C --> This is the main code
 - read_tree_New.h --> In this header file, read the tree
 - function_defination.h --> This is a header file which contains several functions for the correlation measurement
 - histogram_definition.h --> In this header file, all the histograms are defined
