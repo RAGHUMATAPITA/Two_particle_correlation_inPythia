@@ -1,0 +1,48 @@
+Submit skim jobs at 
+PWD: /afs/cern.ch/work/r/rpradhan/With_NirbhayBhai/Pythia8_V1
+
+You have given 5 arguments including the program name;  Your program will run
+
+
+Starting at : Sat Oct 21 22:32:31 2023
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_026/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_027/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_028/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_029/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_030/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_031/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_032/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_033/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_034/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_035/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_036/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_037/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryon/Step1_7TeV_038/pp7TeV_Step1_oneBaryon.root--- to the chains
+
+Total number of events in those files: 13124
+
+0  events running of total events 13124
+10000  events running of total events 13124
+
+~~~~~~~~~~mixing loop start~~~~~~~~~~~~~~~~~~~~
+
+0 th event running for mixing of total events 13124 with multiplicity 5
+10000 th event running for mixing of total events 13124 with multiplicity 8
+
+~~~~~~~~~~mixing loop end~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~Finished, DONE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+========================================
+Total running time: 2.53 [s]
+========================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stopping at : Sat Oct 21 22:32:35 2023
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

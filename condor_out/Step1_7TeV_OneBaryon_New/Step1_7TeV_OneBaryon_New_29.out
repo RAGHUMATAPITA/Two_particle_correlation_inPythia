@@ -1,0 +1,57 @@
+Submit skim jobs at 
+PWD: /afs/cern.ch/work/r/rpradhan/With_NirbhayBhai/Pythia8_V1
+
+You have given 5 arguments including the program name;  Your program will run
+
+
+Starting at : Mon Oct 23 05:22:32 2023
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_580/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_581/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_582/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_583/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_584/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_585/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_586/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_587/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_588/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_589/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_590/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_591/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_592/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_593/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_594/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_595/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_596/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_597/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_598/pp7TeV_Step1_oneBaryon.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Pythia8307/Step_1_7TeV_OneBaryonNew/Step1_7TeV_599/pp7TeV_Step1_oneBaryon.root--- to the chains
+
+Total number of events in those files: 20220
+
+0  events running of total events 20220
+10000  events running of total events 20220
+20000  events running of total events 20220
+
+~~~~~~~~~~mixing loop start~~~~~~~~~~~~~~~~~~~~
+
+0 th event running for mixing of total events 20220 with multiplicity 6
+10000 th event running for mixing of total events 20220 with multiplicity 6
+20000 th event running for mixing of total events 20220 with multiplicity 4
+
+~~~~~~~~~~mixing loop end~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~Finished, DONE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+========================================
+Total running time: 4.06 [s]
+========================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stopping at : Mon Oct 23 05:22:39 2023
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

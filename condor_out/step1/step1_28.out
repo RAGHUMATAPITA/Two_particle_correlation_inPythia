@@ -1,0 +1,61 @@
+Submit skim jobs at 
+PWD: /afs/cern.ch/work/r/rpradhan/With_NirbhayBhai/Pythia8_V1
+
+You have given 5 arguments including the program name;  Your program will run
+
+
+Starting at : Tue Nov 21 18:01:01 2023
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_281/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_282/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_283/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_284/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_285/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_286/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_287/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_288/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_289/pp13TeV_Step1.root--- to the chains
+Adding file:--- /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_290/pp13TeV_Step1.root--- to the chains
+
+Total number of events in those files: 100000
+
+0  events running of total events 100000
+10000  events running of total events 100000
+20000  events running of total events 100000
+30000  events running of total events 100000
+40000  events running of total events 100000
+50000  events running of total events 100000
+60000  events running of total events 100000
+70000  events running of total events 100000
+80000  events running of total events 100000
+90000  events running of total events 100000
+
+~~~~~~~~~~mixing loop start~~~~~~~~~~~~~~~~~~~~
+
+0 th event running for mixing of total events 99994 with multiplicity 64
+10000 th event running for mixing of total events 99994 with multiplicity 52
+20000 th event running for mixing of total events 99994 with multiplicity 14
+30000 th event running for mixing of total events 99994 with multiplicity 17
+40000 th event running for mixing of total events 99994 with multiplicity 16
+50000 th event running for mixing of total events 99994 with multiplicity 56
+60000 th event running for mixing of total events 99994 with multiplicity 20
+70000 th event running for mixing of total events 99994 with multiplicity 10
+80000 th event running for mixing of total events 99994 with multiplicity 17
+90000 th event running for mixing of total events 99994 with multiplicity 13
+
+~~~~~~~~~~mixing loop end~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~Finished, DONE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+========================================
+Total running time: 403.1 [s]
+========================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stopping at : Tue Nov 21 18:07:48 2023
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

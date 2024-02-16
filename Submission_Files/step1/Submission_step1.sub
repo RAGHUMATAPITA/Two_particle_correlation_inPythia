@@ -1,0 +1,13 @@
+universe     = vanilla
+getenv       = True
+executable   = Executable_Files/step1/submit_step1.sh
++JobFlavour  = "workday"
+requirements = (OpSysAndVer =?= "CentOS7")
+RequestCpus  = 4
+
+log          = condor_out/step1/step1_$(process).log
+output          = condor_out/step1/step1_$(process).out
+error          = condor_out/step1/step1_$(process).err
+arguments    = Divided_txt_files/step1/Outfile_step1_$(process).txt  $(process)  /eos/user/r/rpradhan/Research/With_NirbhayBhai/Out_RootFile/step1  step1
+queue 50
+

@@ -1,0 +1,13 @@
+universe     = vanilla
+getenv       = True
+executable   = Executable_Files/Step3b/submit_Step3b.sh
++JobFlavour  = "workday"
+requirements = (OpSysAndVer =?= "CentOS7")
+RequestCpus  = 4
+
+log          = condor_out/Step3b/Step3b_$(process).log
+output          = condor_out/Step3b/Step3b_$(process).out
+error          = condor_out/Step3b/Step3b_$(process).err
+arguments    = Divided_txt_files/Step3b/Outfile_Step3b_$(process).txt  $(process)  /eos/user/r/rpradhan/Research/With_NirbhayBhai/Out_RootFile/Step3b  Step3b
+queue 9
+

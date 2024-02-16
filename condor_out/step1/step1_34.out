@@ -1,0 +1,41 @@
+Submit skim jobs at 
+PWD: /afs/cern.ch/work/r/rpradhan/With_NirbhayBhai/Pythia8_V1
+
+You have given 5 arguments including the program name;  Your program will run
+
+
+Starting at : Tue Nov 21 18:01:03 2023
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_341/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_342/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_343/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_344/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_345/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_346/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_347/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_348/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_349/pp13TeV_Step1.root failed to open
+File: /eos/user/r/rpradhan/Research/With_NirbhayBhai/RootFile/Step_1/Step1_350/pp13TeV_Step1.root failed to open
+
+Total number of events in those files: 0
+
+
+~~~~~~~~~~mixing loop start~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~mixing loop end~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~Finished, DONE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+========================================
+Total running time: 0.05 [s]
+========================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stopping at : Tue Nov 21 18:01:03 2023
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

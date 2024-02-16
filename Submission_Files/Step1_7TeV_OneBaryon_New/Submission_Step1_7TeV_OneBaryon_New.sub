@@ -1,0 +1,13 @@
+universe     = vanilla
+getenv       = True
+executable   = Executable_Files/Step1_7TeV_OneBaryon_New/submit_Step1_7TeV_OneBaryon_New.sh
++JobFlavour  = "workday"
+requirements = (OpSysAndVer =?= "CentOS7")
+RequestCpus  = 4
+
+log          = condor_out/Step1_7TeV_OneBaryon_New/Step1_7TeV_OneBaryon_New_$(process).log
+output          = condor_out/Step1_7TeV_OneBaryon_New/Step1_7TeV_OneBaryon_New_$(process).out
+error          = condor_out/Step1_7TeV_OneBaryon_New/Step1_7TeV_OneBaryon_New_$(process).err
+arguments    = Divided_txt_files/Step1_7TeV_OneBaryon_New/Outfile_Step1_7TeV_OneBaryon_New_$(process).txt  $(process)  /eos/user/r/rpradhan/Research/With_NirbhayBhai/Out_RootFile/Step1_7TeV_OneBaryon_New  Step1_7TeV_OneBaryon_New
+queue 35
+
